@@ -57,7 +57,12 @@ Tu já teve dificuldade em pesquisar e encontrar algo? Nesse repositório há um
 ## Software Livre :tada:  
 
 Pra quem quer entender como começar a contribuir com software livre :smiley:  
-- [Maravilhoso Software Livre](https://github.com/Caaddss/Maravilhoso_SoftwareLivre)  
+- [Maravilhoso Software Livre](https://github.com/Caaddss/Maravilhoso_SoftwareLivre) 
+
+## Listas Incríveis
+
+Tá procurando um repositório bom para iniciantes? Se você conhece alguma mulher que ensina tecnologia, contribua aqui!
+- [Mulheres que ensinam tecnologia 📣](https://github.com/compiladoras/women-teaching-tech)
 
 ---
 
