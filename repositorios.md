@@ -106,3 +106,9 @@ Pra quem quer entender como começar a contribuir com software livre :smiley:
 - [UnnaturalScrollWheels](https://github.com/ther0n/UnnaturalScrollWheels)
 - [MessageKit](https://github.com/MessageKit/MessageKit)
 
+## Hactoberfest
+
+Repositórios para contribuir  e se divertir neste Hacktober!
+
+- [Compiladoras de Cafeína](https://github.com/compiladoras/women-teaching-tech)
+- [WoMakers] (https://github.com/WoMakersCode/challenges-algorithms)
