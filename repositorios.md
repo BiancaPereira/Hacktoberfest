@@ -8,6 +8,7 @@ Quer treinar seus códigos? :computer: Vem cá:
 - [Dev Practice](https://github.com/alinebastos/dev-practice)  
 - [Fullstack Challenges](https://github.com/alinebastos/fullstack-challenges)  
 - [He4rtlabs](https://github.com/he4rtlabs/he4rtoberfest-2020)  
+- [Velas de Aniversário](https://github.com/WoMakersCode/challenges-algorithms/tree/master/tutorial-challenge-birthday-candles-cake)
 
 ## Cursos  
 :pushpin: Tá procurando cursos gratuitos? Então toma, anjo!  
