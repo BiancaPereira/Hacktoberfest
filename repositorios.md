@@ -35,8 +35,8 @@ Se você quer trabalho remoto, cola aqui: :boom:
 ## Traduções
 
 :pencil: Se você manja ou quer treinar o inglês, se liga nisso!
-- [Elixir School](https://github.com/elixirschool/elixirschool/issues?q=is%3Aopen+is%3Aissue+label%3AHacktoberfest)  
-- [Learn Go with tests](https://github.com/larien/learn-go-with-tests)  
+ 
+ - [Learn Go with tests](https://github.com/larien/learn-go-with-tests)  
 - [Documentação do Gatsby.js](https://github.com/gatsbyjs/gatsby-pt-BR/issues)
 - [Devtranslate](https://github.com/devtranslate)
 
@@ -108,7 +108,7 @@ Pra quem quer entender como começar a contribuir com software livre :smiley:
 
 ## Hacktoberfest
 
-Repositórios para contribuir  e se divertir neste Hacktober!
+Repositórios para contribuir e se divertir neste Hacktober!
 
 - [Compiladoras de Cafeína](https://github.com/compiladoras/women-teaching-tech)
 - [WoMakers] (https://github.com/WoMakersCode/challenges-algorithms)
